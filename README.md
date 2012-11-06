@@ -2,7 +2,7 @@
 
 Climate Change Miami is an open source exhibit created with the Open Exhibit 1.6 framework. 
 
-The project was funded through a grant from the National Oceanic and Atmospheric Administration (NOAA). You can learn more about the grant and the project on the Miami Science Museum blog. Ideum developed the custom software and designed the interface. Global Imagination developed the Magic Planet spherical display. MiaSci developed the exhibit content. 
+The project was funded through a grant from the National Oceanic and Atmospheric Administration (NOAA). You can learn more about the grant and the project on the Miami Science Museum blog. Ideum developed the custom software and designed the interface. Global Imagination developed the Magic Planet spherical display. Miami Science Museum developed the exhibit content. 
 
 For more information see: http://openexhibits.org/download/climatechange/
 
