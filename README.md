@@ -10,7 +10,7 @@ For more information see: http://openexhibits.org/download/climatechange/
 
 This exhibit was created using Flash Builder 4.6 and the Flex SDK 4.5.1A. We do not recommend using a different Flex SDK as there may exist memory leaks from the dynamically loaded media files.
 
-Three kiosk application were compiled from the same source code. The only requirement is that each one must have a unique username and position. These values can be set using the username and position attributes in the Global.xml file:
+Three kiosk applications were compiled from the same source code. The only requirement is that each one must have a unique username and position. These values can be set using the username and position attributes in the Global.xml file:
 
 	<network 
 		username="Kiosk3"
