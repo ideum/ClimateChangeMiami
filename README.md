@@ -34,4 +34,5 @@ It is possible to run the exhibit without this hardware, but the functionality w
 # Questions 
 
 For more information see the manual: ClimateChange-Manual.pdf
+
 Questions can be directed towards: support@openexhibit.org
